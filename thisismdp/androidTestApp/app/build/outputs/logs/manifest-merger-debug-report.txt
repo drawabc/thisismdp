@@ -1,0 +1,141 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef7d4d0b0fc3cefe01176a0e57d3418b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98e670f056a9aea58a81123a8c705a16\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5b2e57d563c7b2c295db3c1dbd5c066c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\edb0b47f487b8d7da84265d23c419f85\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1a5da1cfdbf2aa4abf2014d4d58cfdb2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2b8168550d8212e5af5f4a3ae8a4a205\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d69aaf268b4f2d7498786334276bc8e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\275768464d0ac5845ddf620254f1cb3c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\211981696274fca3baf4792479cc9eb8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bfc3f407f7c30c86dd48b45ea9a94a7f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ee7bf482ada79791c6aeefb8001ae3a7\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c9affe8469becd3110c3798fd1d871b\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+	package
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:3:5-51
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:1-48:12
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:6:5-63
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:6:19-60
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:9:22-71
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:12:22-76
+application
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:14:5-46:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98e670f056a9aea58a81123a8c705a16\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98e670f056a9aea58a81123a8c705a16\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:17:9-36
+	android:roundIcon
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:18:9-54
+	android:icon
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:16:9-43
+	android:allowBackup
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:20:9-65
+activity#com.example.cherilynn.androidtestapp.MainActivity
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:22:9-33:20
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:22:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:28:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:29:17-69
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:29:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:31:17-77
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:31:27-74
+activity#com.example.cherilynn.androidtestapp.BluetoothMain
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:35:9-40:20
+	android:label
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:36:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:37:13-64
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:35:19-48
+activity#com.example.cherilynn.androidtestapp.StringConfiguration
+ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:42:9-45:20
+	android:label
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:43:13-51
+	android:name
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml:42:19-54
+uses-sdk
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef7d4d0b0fc3cefe01176a0e57d3418b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\ef7d4d0b0fc3cefe01176a0e57d3418b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98e670f056a9aea58a81123a8c705a16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\98e670f056a9aea58a81123a8c705a16\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5b2e57d563c7b2c295db3c1dbd5c066c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5b2e57d563c7b2c295db3c1dbd5c066c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\edb0b47f487b8d7da84265d23c419f85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\edb0b47f487b8d7da84265d23c419f85\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1a5da1cfdbf2aa4abf2014d4d58cfdb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\1a5da1cfdbf2aa4abf2014d4d58cfdb2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2b8168550d8212e5af5f4a3ae8a4a205\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\2b8168550d8212e5af5f4a3ae8a4a205\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d69aaf268b4f2d7498786334276bc8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\7d69aaf268b4f2d7498786334276bc8e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\275768464d0ac5845ddf620254f1cb3c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\275768464d0ac5845ddf620254f1cb3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\211981696274fca3baf4792479cc9eb8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\211981696274fca3baf4792479cc9eb8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bfc3f407f7c30c86dd48b45ea9a94a7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\bfc3f407f7c30c86dd48b45ea9a94a7f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ee7bf482ada79791c6aeefb8001ae3a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\ee7bf482ada79791c6aeefb8001ae3a7\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c9affe8469becd3110c3798fd1d871b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Xin Xian\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\0c9affe8469becd3110c3798fd1d871b\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Xin Xian\Desktop\androidTestApp\app\src\main\AndroidManifest.xml

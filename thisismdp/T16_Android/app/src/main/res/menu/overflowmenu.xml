@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Settings, should always be in the overflow -->
+    <item android:id="@+id/mainController"
+        android:title="Main Controller"
+        app:showAsAction="never"
+        />
+
+    <item android:id="@+id/bluetoothSettings"
+        android:title="Bluetooth Settings"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/stringMessages"
+        android:title="String Configuration"
+        app:showAsAction="never"/>
+
+
+</menu>
