@@ -1,0 +1,4 @@
+Library to install:
+SharpIR.h @ https://github.com/qub1750ul/Arduino_SharpIR
+---> copy the Arduino_SharpIR_master to Arduino/libraries
+EnableInterrupt.h @ https://www.arduinolibraries.info/libraries/enable-interrupt 
